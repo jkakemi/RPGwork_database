@@ -181,7 +181,7 @@ INSERT INTO PERSONAGEM (nome_personagem, classe, pontos_de_vida, nivel, pontos_d
 
 -- INSERT DE JOGADOR
 INSERT INTO JOGADOR (id_jogador, nome, senha, email, data_ultimologin, nome_pers) VALUES
-(12, 'Julia Akemi Koba', 123, 'Julia@gmail.com', to_date('30112023','DDMMYYYY'),'Akemiistch'),
+(12, 'Julia Kemi', 123, 'Julia@gmail.com', to_date('30112023','DDMMYYYY'),'Akemiistch'),
 (11, 'Gil Antony', 456, 'GilAntony@gmail.com', to_date('04042004','DDMMYYYY'),'GilPhoenix'),
 (10, 'Samuel', 789, 'Samuel@gmail.com', to_date('07072007','DDMMYYYY'),'Samuca');
 
